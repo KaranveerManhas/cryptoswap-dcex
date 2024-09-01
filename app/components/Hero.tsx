@@ -30,7 +30,7 @@ export const Hero = () => {
                 <SecondaryButton onClick={() => {
                     router.push('/dashboard');
                 }}>
-                    Login with Google
+                    Go to Dashboard
                 </SecondaryButton>
                 :
                 <SecondaryButton onClick={() => {
