@@ -23,7 +23,7 @@ export const Hero = () => {
                 Create a frictionless wallet from India with just a Google Account!
             </div>
             <div className="flex justify-center pt-2 text-2xl text-slate-400">
-                Convert your INR your Cryptocurrency
+                Convert your INR into Cryptocurrency
             </div>
             <div className="pt-8 flex justify-center">
                 {session.data?.user ?
