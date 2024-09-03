@@ -12,11 +12,11 @@ export const Hero = () => {
         <div>
             <div className="text-6xl font-semibold">
                 <span>
-                The Indian Cryto
+                The Indian Crypto
                 </span>
 
                 <span className="text-blue-500 pl-4">
-                    Wallet!
+                    Revolution!
                 </span>
             </div>
             <div className="flex justify-center pt-4 text-2xl text-slate-400">
