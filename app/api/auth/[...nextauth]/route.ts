@@ -54,7 +54,9 @@ const handler = NextAuth({
                             }
                         }
                     }
-                })
+                });
+
+                return true;
             }
             
             return false;
